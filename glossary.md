@@ -20,7 +20,7 @@ Pojęcia opisujemy językiem dziedziny, dla której tworzymy system, a nie języ
 | Wydział | Jednostka organizacyjna uczelni odpowiedzialna za określony obszar kształcenia lub działalności naukowej. |
 | Odległość | Dystans pomiędzy dwoma lokalizacjami, np. pomiędzy położeniem studenta a miejscem realizacji oferty. |
 | Lokalizacja | Położenie geograficzne użytkownika lub miejsca, w którym dostępna jest oferta, określone np. za pomocą adresu lub współrzędnych geograficznych. |
-| Procentowa wielkość rabatu | Wartość procentowa określająca, o ile procent cena produktu lub usługi jest niższa od ceny pierwotnej. |
+| Zniżka | Wartość procentowa określająca, o ile procent cena produktu lub usługi jest niższa od ceny pierwotnej. |
 | Budżet studenta | Środki finansowe, którymi student dysponuje i które może przeznaczyć na produkty oraz usługi. |
 | Okres obowiązywania promocji | Przedział czasu, w którym dana promocja jest dostępna. |
 | Warunki promocji | Zasady określające, kiedy i w jaki sposób można skorzystać z danej oferty, np. konieczność okazania legitymacji studenckiej. |
