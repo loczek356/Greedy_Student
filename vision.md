@@ -1,8 +1,8 @@
 # Greedy student
 
-Studenci często zmagają się z ograniczonym budżetem i mają trudności ze sprawnym znajdowaniem atrakcyjnych, sprawdzonych ofert w pobliżu swojego kampusu.
+Studenci często zmagają się z ograniczonym budżetem i mają trudności ze sprawnym znajdowaniem atrakcyjnych, sprawdzonych ofert ze zniżkami w pobliżu swojego kampusu.
 
-Chcemy stworzyć **interaktywną Mapę Zniżek Studenckich**, która zgromadzi w jednym miejscu wszystkie aktualne zniżki dostępne po okazaniu legitymacji studenckiej. Nowe zniżki będą automatycznie wyszukiwane w internecie i dodawane do mapy przez specjalnego agenta.
+Chcemy stworzyć **Interaktywną Mapę Zniżek Studenckich**, która zgromadzi w jednym miejscu wszystkie aktualne zniżki dostępne dla studentów. Nowe oferty ze zniżkami będą automatycznie wyszukiwane w Internecie i dodawane do mapy przez specjalnego agenta po ich weryfikacji.
 
 Aplikacja w czasie rzeczywistym wskaże najbliższe:
 
@@ -11,12 +11,12 @@ Aplikacja w czasie rzeczywistym wskaże najbliższe:
 - bary,
 - muzea
 
-oferujące specjalne ceny dla studentów.
+oferujące zniżki dla studentów.
 
 Użytkownik będzie mógł intuicyjnie filtrować dostępne oferty według:
 
 - wybranej kategorii,
 - odległości od wydziału,
-- procentowej wielkości rabatu.
+- procentowej wysokości zniżki.
 
-System wykorzysta dane o lokalizacji studenta, aby na żywo proponować najlepsze opcje na tani obiad lub szybką kawę w przerwie między wykładami.
+System wykorzysta dane o lokalizacji studenta, aby proponować mu najbliższe i najbardziej odpowiednie oferty, np. tani obiad lub szybką kawę w przerwie między wykładami.
