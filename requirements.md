@@ -20,7 +20,7 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 | FR-03 | System prezentuje lokalizacje obiektów oferujących zniżki na interaktywnej mapie. |
 | FR-04 | System umożliwia wyszukiwanie najbliższych ofert na podstawie lokalizacji użytkownika. |
 | FR-05 | System umożliwia filtrowanie ofert według kategorii obiektu. |
-| FR-06 | System umożliwia filtrowanie ofert według odległości od wybranego wydziału. |
+| FR-06 | System umożliwia filtrowanie ofert według odległości od wybranej lokalizacji. |
 | FR-07 | System umożliwia filtrowanie ofert według procentowej wysokości zniżki. |
 | FR-08 | System prezentuje informacje o dostępnych zniżkach, w tym wysokość zniżki i warunki jej uzyskania. |
 | FR-09 | System automatycznie wyszukuje w Internecie nowe oferty ze zniżkami studenckimi. |
@@ -43,14 +43,12 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 ## Pytania otwarte
 
 - Co oznacza, że zniżka jest aktualna i jak często należy sprawdzać jej ważność?
+- Jak często agent powinien wyszukiwać nowe oferty i sprawdzać, czy istniejące zniżki nadal obowiązują?
 - Jak system powinien weryfikować wiarygodność ofert ze zniżkami znalezionych przez agenta w Internecie?
+- Czy automatycznie znalezione oferty powinny być publikowane od razu, czy dopiero po dodatkowej weryfikacji?
 - Czy każda zniżka musi wymagać okazania legitymacji studenckiej, czy dopuszczalne są również inne formy potwierdzenia statusu studenta?
 - Czy system powinien uwzględniać zniżki ograniczone czasowo, np. obowiązujące tylko w określonych godzinach?
 - Od jakiego punktu należy mierzyć odległość: od aktualnej lokalizacji użytkownika, wybranego wydziału czy całego kampusu?
-- Czy odległość powinna oznaczać dystans w linii prostej, czy rzeczywistą trasę pieszą?
-- Co powinien zrobić system, jeśli nie znajdzie ofert spełniających wybrane kryteria?
-- Co powinien zrobić system, jeśli kilka ofert spełnia kryteria w podobnym stopniu?
 - Czy system powinien uwzględniać również ceny produktów i usług po zastosowaniu zniżki, czy wyłącznie procentową wysokość zniżki?
 - Czy użytkownik powinien mieć możliwość zgłaszania nieaktualnych ofert lub błędnych informacji?
-- Czy automatycznie znalezione oferty powinny być publikowane od razu, czy dopiero po dodatkowej weryfikacji?
-- Jak często agent powinien wyszukiwać nowe oferty i sprawdzać, czy istniejące zniżki nadal obowiązują?
+
