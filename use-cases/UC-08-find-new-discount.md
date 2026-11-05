@@ -1,4 +1,4 @@
-# UC-04 — Automatyczne wyszukiwanie i dodawanie ofert ze zniżkami studenckimi
+# UC-08 — Automatyczne wyszukiwanie i dodawanie ofert ze zniżkami studenckimi
 
 ## Aktor
 
