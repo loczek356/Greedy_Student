@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     Student([Student])
     Agent([Agent Systemowy])
@@ -10,7 +11,6 @@ flowchart LR
         UC4([Filtrowanie ofert wg atrybutów])
         UC5([Przeglądanie szczegółów i warunków oferty])
         UC6([Sprawdzanie aktualności ofert])
-
         UC7([Automatyczne wyszukiwanie ofert w Internecie])
         UC8([Weryfikacja i dodawanie ofert do mapy])
     end
@@ -24,3 +24,4 @@ flowchart LR
 
     Agent --- UC7
     Agent --- UC8
+```
