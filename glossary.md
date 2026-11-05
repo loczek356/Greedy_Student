@@ -23,3 +23,7 @@ Pojęcia opisujemy językiem dziedziny, dla której tworzymy system, a nie języ
 | Budżet | Środki finansowe, którymi student dysponuje i które może przeznaczyć na produkty oraz usługi. |
 | Okres obowiązywania zniżki | Przedział czasu, w którym dana zniżka jest dostępna. |
 | Warunki zniżki | Zasady określające, kiedy i w jaki sposób można skorzystać z danej zniżki, np. konieczność okazania legitymacji studenckiej. |
+| Kategoria | Klasyfikacja ofert według rodzaju działalności, np. restauracje, kawiarnie, bary i muzea. |
+| Weryfikacja oferty | Proces sprawdzania poprawności i aktualności informacji dotyczących oferty oraz przypisanej do niej zniżki. |
+| Wyszukiwanie ofert | Proces odnajdywania ofert spełniających określone kryteria, takie jak lokalizacja, kategoria lub wysokość zniżki. |
+| Aktualność oferty | Określenie, czy oferta nadal obowiązuje i można z niej skorzystać. |
