@@ -15,7 +15,6 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 
 | ID | Wymaganie |
 |---|---|
-
 | FR-01 | System umożliwia studentowi przeglądanie Interaktywnej Mapy Zniżek Studenckich. |
 | FR-02 | System umożliwia wyszukiwanie restauracji, kawiarni, barów i muzeów oferujących zniżki studenckie. |
 | FR-03 | System prezentuje lokalizacje obiektów oferujących zniżki studenckie na interaktywnej mapie. |
