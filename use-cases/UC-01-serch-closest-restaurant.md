@@ -10,7 +10,7 @@ Znalezienie najbliższych restauracji, kawiarni, barów lub muzeów oferujących
 
 ## Powiązane wymagania
 
-FR-01, FR-02, FR-03, FR-04
+FR-01, FR-02, FR-03, FR-04, FR-08
 
 ## Warunek wstępny
 
