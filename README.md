@@ -1,5 +1,4 @@
-Autorzy:
-
+Autorzy:  
 Daniel Nowakowski  
 Michał Mueller  
 Jakub Motyka  
