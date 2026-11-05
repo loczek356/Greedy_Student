@@ -15,18 +15,19 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 
 | ID | Wymaganie |
 |---|---|
-| FR-01 | System umożliwia użytkownikowi przeglądanie interaktywnej mapy ofert ze zniżkami studenckimi. |
-| FR-02 | System umożliwia wyszukiwanie restauracji, kawiarni, barów i muzeów oferujących zniżki dla studentów. |
-| FR-03 | System prezentuje lokalizacje obiektów oferujących zniżki na interaktywnej mapie. |
-| FR-04 | System umożliwia wyszukiwanie najbliższych ofert na podstawie lokalizacji użytkownika. |
-| FR-05 | System umożliwia filtrowanie ofert według kategorii obiektu. |
-| FR-06 | System umożliwia filtrowanie ofert według odległości od wybranej lokalizacji. |
+
+| FR-01 | System umożliwia studentowi przeglądanie Interaktywnej Mapy Zniżek Studenckich. |
+| FR-02 | System umożliwia wyszukiwanie restauracji, kawiarni, barów i muzeów oferujących zniżki studenckie. |
+| FR-03 | System prezentuje lokalizacje obiektów oferujących zniżki studenckie na interaktywnej mapie. |
+| FR-04 | System umożliwia wyszukiwanie najbliższych ofert na podstawie lokalizacji studenta. |
+| FR-05 | System umożliwia filtrowanie ofert według kategorii. |
+| FR-06 | System umożliwia filtrowanie ofert według odległości od wybranej lokalizacji, np. wydziału. |
 | FR-07 | System umożliwia filtrowanie ofert według procentowej wysokości zniżki. |
-| FR-08 | System prezentuje informacje o dostępnych zniżkach, w tym wysokość zniżki i warunki jej uzyskania. |
-| FR-09 | System automatycznie wyszukuje w Internecie nowe oferty ze zniżkami studenckimi. |
-| FR-10 | System umożliwia automatyczne dodawanie nowo znalezionych ofert do mapy po ich weryfikacji. |
-| FR-11 | System umożliwia użytkownikowi sprawdzanie aktualności dostępnych ofert ze zniżkami. |
-| FR-12 | System umożliwia użytkownikowi szybkie znalezienie ofert odpowiadających jego potrzebom, np. taniego obiadu lub kawy w pobliżu kampusu. |
+| FR-08 | System prezentuje informacje o dostępnych ofertach ze zniżkami studenckimi, w tym wysokość zniżki i warunki jej uzyskania. |
+| FR-09 | System za pomocą agenta automatycznie wyszukuje w Internecie nowe oferty ze zniżkami studenckimi. |
+| FR-10 | System umożliwia automatyczne dodawanie nowych ofert do mapy przez agenta po ich weryfikacji. |
+| FR-11 | System umożliwia studentowi sprawdzanie aktualności dostępnych ofert ze zniżkami studenckimi. |
+| FR-12 | System umożliwia studentowi szybkie znalezienie ofert odpowiadających jego potrzebom, np. taniego obiadu lub kawy w pobliżu kampusu. |
 
 ## Wymagania niefunkcjonalne
 
