@@ -1,3 +1,4 @@
+```mermaid
 stateDiagram-v2
     [*] --> Pending : ExtractOffers()
     Pending --> Rejected : REJECTED
@@ -15,3 +16,4 @@ stateDiagram-v2
 
     Rejected --> [*]
     Expired --> [*]
+```
